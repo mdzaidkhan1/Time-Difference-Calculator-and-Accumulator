@@ -10,3 +10,9 @@ After you input it, it returns the run number, the inputted values, and the diff
 It then asks if you want to add more runs for this particular "device".
 If yes, you repeat the steps above and receive the "Add run" question again.
 If no, the total runtime for this iteration/device is output as "Total runtime"
+
+FUTURE WORK:
+-Add tabular approach to the data storage
+-Add I/O exception catches
+-Create non-volatile data, where you can delete an entry if there was a typo
+-Create differenet device objects?
